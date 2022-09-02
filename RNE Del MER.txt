@@ -1,0 +1,6 @@
+-Un jugador no puede existir sin haber participado en un evento
+-No puede existir una tabla de Foul, o Puntaje si No tiene una relacion con alguna de las tablas: Jugador, Equipo, Asociacion 
+-No puede existir una tabla de Equipo sin tener relacion con alguna de las tablas: Jugador, Partido, Asociacion
+-No puede existir una tabla de Partido sin tener relacion con alguna de las tablas: Jugador, Equipo, Familia
+-No puede existir una tabla de Familia sin tener relacion con alguna de las tablas: Partido
+-No puede existir una tabla de Deporte sin tener relacion con alguna de las tablas: Jugador, Partido, Familia, Asociacion, Manager
