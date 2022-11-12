@@ -1,1 +1,2 @@
 # Proyecto-3BG-BD
+FAVOR USAR LA RAMA "LATEST"
